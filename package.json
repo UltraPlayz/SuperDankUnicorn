@@ -1,0 +1,13 @@
+{
+  "name": "Super Dank Unicorn",
+  "version": "1.0.0",
+  "main": "dankmemes.js",
+  "scripts": {
+  	"test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "UltraPlayz",
+  "liscence": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
